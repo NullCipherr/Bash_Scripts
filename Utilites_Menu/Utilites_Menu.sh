@@ -33,7 +33,7 @@ ui()
 
 breakline()
 {
-	echo -e "\n"
+	echo
 }
 
 # Função que realiza a atualização do repositório local.
